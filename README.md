@@ -37,7 +37,8 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Usage
-![app](assets/images/Screenshot 2023-08-07 175822.jpg)
+
+![app](assets/images/PasswordGenerator.jpg)
 
 ## Links
 <a href="https://lexxvasquez.github.io/SecretKey/"target="_blank">deployed site</a>
