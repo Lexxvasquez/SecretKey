@@ -41,6 +41,6 @@ THEN the password is either displayed in an alert or written to the page
 ![app](assets/images/PasswordGenerator.jpg)
 
 ## Links
-<a href="https://lexxvasquez.github.io/SecretKey/"target="_blank">deployed site</a>
+[Deployed site](https://lexxvasquez.github.io/SecretKey/)
 
-<a href="https://github.com/Lexxvasquez/SecretKey"target="_blank">github</a>
+[Github](https://github.com/Lexxvasquez/SecretKey)
